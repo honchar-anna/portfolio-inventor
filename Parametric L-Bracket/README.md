@@ -11,7 +11,7 @@ It allows the user to modify dimensions and toggle hole visibility dynamically.
 - 🤖 Automated modifications via **iLogic rules**  
 
 ## 📸 Preview  
-![Bracket Model](PARAMETRIC%20L-BRACKET.pdf)
+[📄 View PDF](PARAMETRIC%20L-BRACKET.pdf)
 
 ## 🛠 How to Use  
 1. Open the `.ipt` file in **Autodesk Inventor**  
