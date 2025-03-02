@@ -11,7 +11,7 @@ This project showcases my ability to **design and model a real-world wardrobe sy
 
 ## 📸 Project Preview
 🔹 **3D Model Preview:** [🔗 View in Autodesk Viewer](https://autode.sk/43qz8Aq)  
-🔹 **Technical Drawing (PDF):** [📄 View PDF](DRAWING%20WR2pdf.pdf)  [📄 View PDF](DRAWING%20WR1.pdf) 
+🔹 **Technical Drawing (PDF):** [📄 View PDF](DRAWING%20WR2.pdf)  [📄 View PDF](DRAWING%20WR1.pdf) 
 
 ## 📂 Files Included
 📁 **Wardrobe_Assembly.iam** – Inventor assembly file  
