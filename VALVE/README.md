@@ -15,7 +15,7 @@ This project showcases my ability to **work with assemblies** in Autodesk Invent
 
 🔹 **Assembly Animation Video:** [🎥 Watch on Google Drive/YouTube](https://drive.google.com/file/d/1U78o7ZF_NKNAqepRTX7_LwuaxLMHuSWh/view?usp=drive_link)
 
-🔹 **Technical Drawing (PDF):** [📄 View PDF](VALVE%20DRAWINGidw.pdf) [📄 View PDF](VALVE%20DRAWING.pdf)
+🔹 **Technical Drawing (PDF):** [📄 View PDF](VALVE%20DRAWING2.pdf) [📄 View PDF](VALVE%20DRAWING.pdf)
 
 ## 📂 Files Included
 📁 **Vent_Assembly.iam** – Inventor assembly file  
