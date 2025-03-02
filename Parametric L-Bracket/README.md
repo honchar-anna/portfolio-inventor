@@ -15,7 +15,7 @@ It allows the user to modify dimensions and toggle hole visibility dynamically.
 
 ## 🛠 How to Use  
 1. Open the `.ipt` file in **Autodesk Inventor**  
-2. Open the **iLogic Form** to modify parameters  
+2. Open the **iLogic Browser** to modify parameters  
 3. Select the desired **hole configuration & bracket size**  
 4. Observe the model update in real-time  
 
