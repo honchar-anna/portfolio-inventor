@@ -13,7 +13,7 @@ This project showcases my ability to **work with assemblies** in Autodesk Invent
 ## 📸 Project Preview
 🔹 **3D Model Preview:** [🔗 View in Autodesk Viewer](https://autode.sk/41qdtps) 
 
-🔹 **Assembly Animation Video:** [🎥 Watch on Google Drive/YouTube](https://drive.google.com/file/d/1U78o7ZF_NKNAqepRTX7_LwuaxLMHuSWh/view?usp=drive_link)
+🔹 **Assembly Animation Video:** [🎥 Watch on Google Drive](https://drive.google.com/file/d/1U78o7ZF_NKNAqepRTX7_LwuaxLMHuSWh/view?usp=drive_link)
 
 🔹 **Technical Drawing (PDF):** [📄 View PDF](VALVE%20DRAWING2.pdf) [📄 View PDF](VALVE%20DRAWING.pdf)
 
