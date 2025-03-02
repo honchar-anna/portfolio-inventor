@@ -11,12 +11,9 @@ This project showcases my ability to **work with assemblies** in Autodesk Invent
 ✔ **File Management** – Organizing and linking multiple part files in an assembly  
 
 ## 📸 Project Preview
-🔹 **3D Model Preview:** [🔗 View in Autodesk Viewer](your-autodesk-viewer-link)  
-🔹 **Assembly Animation Video:** [🎥 Watch on Google Drive/YouTube](your-video-link)  
-🔹 **Technical Drawing (PDF):** [📄 Download](Vent_Assembly_Drawing.pdf)  
-
-*(Upload an image of the assembled ventil here for a quick preview!)*  
-![Vent Assembly](images/vent_assembly.png)  
+🔹 **3D Model Preview:** [🔗 View in Autodesk Viewer](https://autode.sk/41qdtps)  
+🔹 **Assembly Animation Video:** [🎥 Watch on Google Drive/YouTube](https://drive.google.com/file/d/1U78o7ZF_NKNAqepRTX7_LwuaxLMHuSWh/view?usp=drive_link)
+🔹 **Technical Drawing (PDF):** [📄 Download](VALVE%20DRAWING.pdf)  
 
 ## 📂 Files Included
 📁 **Vent_Assembly.iam** – Inventor assembly file  
