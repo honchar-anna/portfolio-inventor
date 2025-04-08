@@ -17,9 +17,3 @@ This project showcases my ability to **work with assemblies** in Autodesk Invent
 
 🔹 **Technical Drawing (PDF):** [📄 View PDF](VALVE%20DRAWING2.pdf) [📄 View PDF](VALVE%20DRAWING.pdf)
 
-## 📂 Files Included
-📁 **Vent_Assembly.iam** – Inventor assembly file  
-📁 **Part_Files/** – All 12 part files (`.ipt`)  
-📁 **Vent_Exploded_View.idw** – Drawing with exploded view  
-📁 **Vent_Animation.mp4** – Simple animation showing the assembly process  
-
