@@ -10,7 +10,7 @@ This project showcases my ability to **design and model a real-world wardrobe sy
 ✔ **Technical Drawings** – Generated precise **2D manufacturing drawings**    
 
 ## 📸 Project Preview
-🔹 **3D Model Preview:** [🔗 View in Autodesk Viewer](https://autode.sk/3RGOdH4)  
+🔹 **3D Model Preview:** [🔗 View in Autodesk Viewer](https://autode.sk/446Rfu4)  
 🔹 **Technical Drawing (PDF):** [📄 View PDF](DRAWING%20WR2.pdf)  [📄 View PDF](DRAWING%20WR1.pdf) 
 
 
