@@ -7,9 +7,9 @@ This repository contains several **Sheet Metal projects** created in Autodesk In
 
 ### 🔹 **Simple Sheet Metal Bracket**
 - **Description:** A basic L-bracket with mounting holes and chamfers, designed for learning bend and flange tools.  
-- **Preview:** [🔗 View in Autodesk Viewer](https://autode.sk/3DM6Cik)  
+- **Preview:** [🔗 View in Autodesk Viewer](https://autode.sk/3HKpqjV)  
  
 
 ### 🔹 **Sheet Metal Enclosure**
 - **Description:** A small metal enclosure designed for housing electronic components, featuring ventilation cutouts and mounting points.  
-- **Preview:** [🔗 View in Autodesk Viewer](https://autode.sk/3FpJzul)  
+- **Preview:** [🔗 View in Autodesk Viewer](https://autode.sk/3TwW76K)  
